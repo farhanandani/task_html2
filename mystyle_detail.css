@@ -1,0 +1,33 @@
+body{
+    padding: 10rem;
+    background-image: linear-gradient(to bottom right, rgb(148, 0, 116), rgb(125, 0, 184));
+}
+
+.kotak{
+    height: auto;
+    width: 50%;
+    background-image: linear-gradient(to right bottom, rgb(0, 156, 184), rgb(9, 64, 128));
+    box-shadow: 5px 6px 7px #000000;
+    border-radius: 6px;
+    border-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0 auto;
+}
+
+legend{
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+    box-shadow: black;
+}
+
+td, th{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 0.5px solid black;
+}

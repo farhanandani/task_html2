@@ -1,0 +1,54 @@
+body{
+    padding: 10rem;
+    background-image: linear-gradient(to bottom right, rgb(125, 0, 184), rgb(148, 0, 116));
+}
+
+.kotak{
+    border-style: none;
+    width: 20rem;
+    height: auto;
+    background-image: linear-gradient(to right bottom, #8400a4, #890092);
+    margin: 0 auto;
+}
+
+legend{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.nama{
+    width: 100%;
+    height: auto;
+    box-shadow: 5px 6px 7px #000000;
+    border-radius: 5px;
+    border-color: black;
+}
+
+.negara{
+    width: 100%;
+    height: auto;
+}
+
+.submit{
+    border-radius: 5px;
+    height: 2rem;
+    width: 5rem;
+    font-size: large;
+    background-color: #f3bd19 ;
+    float: right;
+    box-shadow: 5px 6px 7px #000000;
+    border-style: none;
+    border-color: black;
+}
+
+label{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+select{
+    box-shadow: 5px 6px 7px #000000;
+    border-radius: 5px;
+    border-color: black;
+}
